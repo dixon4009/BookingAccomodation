@@ -1,0 +1,9 @@
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\bin\Debug\BookingDatabase.dacpac
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\bin\Debug\BookingDatabase.dll
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\bin\Debug\BookingDatabase.pdb
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\obj\Debug\BookingDatabase.dll
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\obj\Debug\BookingDatabase.pdb
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\obj\Debug\Model.xml
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\obj\Debug\refactor.xml
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\obj\Debug\postdeploy.sql
+C:\Users\dkoshy2\source\repos\BookingAccomodation\BookingDatabase\obj\Debug\predeploy.sql
