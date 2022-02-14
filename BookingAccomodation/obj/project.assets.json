@@ -5890,11 +5890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dkoshy2\\source\\repos\\BookingAccomodation\\BookingAccomodation\\BookingAccomodation.csproj",
+      "projectUniqueName": "C:\\FirstWebAPI\\BookingAccomodation\\BookingAccomodation\\BookingAccomodation.csproj",
       "projectName": "BookingAccomodation",
-      "projectPath": "C:\\Users\\dkoshy2\\source\\repos\\BookingAccomodation\\BookingAccomodation\\BookingAccomodation.csproj",
+      "projectPath": "C:\\FirstWebAPI\\BookingAccomodation\\BookingAccomodation\\BookingAccomodation.csproj",
       "packagesPath": "C:\\Users\\dkoshy2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dkoshy2\\source\\repos\\BookingAccomodation\\BookingAccomodation\\obj\\",
+      "outputPath": "C:\\FirstWebAPI\\BookingAccomodation\\BookingAccomodation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dkoshy2\\AppData\\Roaming\\NuGet\\NuGet.Config",
